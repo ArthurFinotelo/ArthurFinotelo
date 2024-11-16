@@ -6,11 +6,12 @@
 - 💬 Pergunte-me sobre qualquer coisa [aqui](https://www.linkedin.com/in/arthur-finotelo-0b9924338/)
 
 ## Minhas Skills
-**Aplicações e dados**
+**Aplicações e dados(Estudando)**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![LUA](https://img.shields.io/badge/Luau-333333?style=flat&logo=lua&logoColor=white)
 
 **DevOps**
 
