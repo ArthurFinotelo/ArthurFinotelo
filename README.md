@@ -2,7 +2,7 @@
 
 - 😀 Olá, sou o Arthur, sou um desenvolvedor apaixonado por tecnologia!
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Atualmente sou Programador Front-End e estou estudando JS.
+- 🎓 Estudando Luau
 - 💬 Pergunte-me sobre qualquer coisa [aqui](https://www.linkedin.com/in/arthur-finotelo-0b9924338/)
 
 ## Minhas Skills
